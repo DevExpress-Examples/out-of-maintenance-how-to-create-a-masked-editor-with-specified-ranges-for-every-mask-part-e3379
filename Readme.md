@@ -1,3 +1,20 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [EditElement.cs](./CS/RangedMaskSample/EditElement.cs) (VB: [EditElementCollection.vb](./VB/RangedMaskSample/EditElementCollection.vb))
+* [EditElementCollection.cs](./CS/RangedMaskSample/EditElementCollection.cs) (VB: [EditElementCollection.vb](./VB/RangedMaskSample/EditElementCollection.vb))
+* [Form1.cs](./CS/RangedMaskSample/Form1.cs) (VB: [Form1.vb](./VB/RangedMaskSample/Form1.vb))
+* [MaskButtonEdit.cs](./CS/RangedMaskSample/MaskButtonEdit.cs) (VB: [MaskButtonEdit.vb](./VB/RangedMaskSample/MaskButtonEdit.vb))
+* [MaskButtonEditMaskFormatElement.cs](./CS/RangedMaskSample/MaskButtonEditMaskFormatElement.cs) (VB: [MaskButtonEditMaskFormatElement.vb](./VB/RangedMaskSample/MaskButtonEditMaskFormatElement.vb))
+* [MaskButtonEditMaskFormatInfo.cs](./CS/RangedMaskSample/MaskButtonEditMaskFormatInfo.cs) (VB: [MaskButtonEditMaskFormatInfo.vb](./VB/RangedMaskSample/MaskButtonEditMaskFormatInfo.vb))
+* [MaskButtonEditMaskManager.cs](./CS/RangedMaskSample/MaskButtonEditMaskManager.cs) (VB: [MaskButtonEditMaskManager.vb](./VB/RangedMaskSample/MaskButtonEditMaskManager.vb))
+* [MaskButtonEditMaskProperties.cs](./CS/RangedMaskSample/MaskButtonEditMaskProperties.cs) (VB: [MaskButtonEditMaskProperties.vb](./VB/RangedMaskSample/MaskButtonEditMaskProperties.vb))
+* [MaskElement.cs](./CS/RangedMaskSample/MaskElement.cs) (VB: [MaskElement.vb](./VB/RangedMaskSample/MaskElement.vb))
+* [MaskElementCollection.cs](./CS/RangedMaskSample/MaskElementCollection.cs) (VB: [MaskElementCollection.vb](./VB/RangedMaskSample/MaskElementCollection.vb))
+* [MaskElementsRepository.cs](./CS/RangedMaskSample/MaskElementsRepository.cs) (VB: [MaskElementsRepository.vb](./VB/RangedMaskSample/MaskElementsRepository.vb))
+* [Program.cs](./CS/RangedMaskSample/Program.cs) (VB: [Program.vb](./VB/RangedMaskSample/Program.vb))
+* [RepositoryItemMaskButtonEdit.cs](./CS/RangedMaskSample/RepositoryItemMaskButtonEdit.cs) (VB: [RepositoryItemMaskButtonEdit.vb](./VB/RangedMaskSample/RepositoryItemMaskButtonEdit.vb))
+<!-- default file list end -->
 # How to create a masked editor with specified ranges for every mask part
 
 
