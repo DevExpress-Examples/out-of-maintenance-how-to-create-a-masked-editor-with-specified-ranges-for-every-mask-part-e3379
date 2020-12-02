@@ -18,8 +18,6 @@ namespace RangedMaskSample
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MaskElementsRepository.MaskCollection.Add(new MaskElement("a1", 0, 10));
-            MaskElementsRepository.MaskCollection.Add(new MaskElement("c3", 15, 125));
         }
     }
 }
